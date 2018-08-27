@@ -1,1 +1,10 @@
-Este archivo sirve para emular modificaciones en el proyecto colaborativo.Mac’asMar’aJosŽ_Persona_1El repositorio remoto actualizado se puede encontrar en:https://github.com/mariajmac/tarea_colaborativo
+Este archivo sirve para emular modificaciones en el proyecto colaborativo.
+
+Macï¿½asMarï¿½aJosï¿½_Persona_1
+BenavidesDaniela_Persona_2
+
+
+El repositorio remoto actualizado se puede encontrar en:
+https://github.com/mariajmac/tarea_colaborativo
+https://github.com/danielabenavides/tarea_colaborativo
+
